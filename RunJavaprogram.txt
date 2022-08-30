@@ -1,0 +1,30 @@
+		
+
+Step to run the code :-
+
+First option :-
+
+1.  Open ID (Like EclipseID);
+2. Java should be install in your System.
+3. Create a PACKAGE with name interview in EclipseID
+4. Create a Class with name CONSIGNMENT in EclipseID
+5. Copy the from github and paste in that class.
+6. click right button on that Class .It gives option RunAs then click on RunAs button.
+7. It will be run and gives output.
+
+    Second option :-
+
+	Java should be install in your System.
+
+	We must follow the steps given below to run a Java program.
+
+1. Open the notepad and write a Java program into it(copy the code from github and paste into notepad).
+2. Save the Java program by using the class name(Consignment)  followed by .java extension.
+3. Open the CMD(From that directory,where youhave saved the program), type the commands and run the Java program.
+4. To compile the Java program type the following command:
+	
+	javac Consignment.java  ;
+
+5. To run the Java program, type the following command.
+
+	java Consignment  
